@@ -1,2 +1,3 @@
-This is my personal website and portfolio. 
-victorjwu.com
+#This is my personal website and portfolio. 
+
+[Link to the website](victorjwu.com)
